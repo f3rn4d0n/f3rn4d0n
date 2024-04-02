@@ -23,6 +23,16 @@ Freelancer, iOS Developer de corazón, Backend, Android y Data developer en proc
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 </br>
 
+## Stats 
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=f3rn4d0n&show_icons=true&theme=onedark&line_height=28.5" />
+</a>
+
+<!-- GitHub Top Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3rn4d0n&hide=Jupyter%20Notebook&langs_count=10&layout=compact&theme=onedark" />
+</a>
 
 
 ## Contacto:
